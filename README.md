@@ -1,6 +1,6 @@
 # Ejercicio Matriz en Java
 
-[![Java](https://img.shields.io/badge/Github-Repo-purple.svg)](https://github.com/jyustrod/Prueba-SOLID-Matriz.git)
+[![Github](https://img.shields.io/badge/Github-Repo-purple.svg)](https://github.com/jyustrod/Prueba-SOLID-Matriz.git)
 [![Java](https://img.shields.io/badge/Java-11%2B-blue.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/Apache-2.0-red.svg)](LICENSE)
 
